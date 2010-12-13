@@ -1,0 +1,9 @@
+<?php return array(
+	'name'			=> 'example_pipe',
+	'version'		=> '1.0.0',
+	'description'	=> 'A quick example test pipe',
+	'authors'		=> array('Jamie Rumbelow <jamie@jamierumbelow.net>'),
+	'files'			=> array(
+		'lib/example_pipe.php'
+	)
+);
