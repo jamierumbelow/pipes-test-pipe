@@ -4,6 +4,6 @@
 	'description'	=> 'A quick example test pipe',
 	'authors'		=> array('Jamie Rumbelow <jamie@jamierumbelow.net>'),
 	'files'			=> array(
-		'lib/example_pipe.php'
+		'example_pipe.php'
 	)
 );
