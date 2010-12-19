@@ -4,6 +4,7 @@
 	'description'	=> 'A quick example test pipe',
 	'authors'		=> array('Jamie Rumbelow <jamie@jamierumbelow.net>'),
 	'files'			=> array(
+		'README.md',
 		'example_pipe.php'
 	)
 );
